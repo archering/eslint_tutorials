@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-zhangdong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eslint-config-zhangdong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
